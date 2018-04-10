@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Popular_Movies_Stage1</string>
+    <string name="MyKey">32e3d660734b2c2c7e98a95cdf74cd79</string>
+    <string name="popular">popular</string>
+    <string name="Top_Rated">top_rated</string>
+    <string name="pref_sorting">search_list</string>
+    <string name="activity_setting">Settings</string>
+
+
+
+    <string name="pref_title">Select movies by </string>
+    <string-array name="pref_list_titles">
+        <item>Popular</item>
+        <item>Top rated</item>
+
+    </string-array>
+    <string-array name="pref_list_values">
+        <item>popular</item>
+        <item>top_rated</item>
+
+    </string-array>
+
+</resources>
